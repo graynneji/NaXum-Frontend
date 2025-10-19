@@ -12,5 +12,7 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue", "src/shims-vue.d.ts"]
+ 
+  "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue", "src/shims-vue.d.ts", "stores/modalStore.ts"]
+
 }
