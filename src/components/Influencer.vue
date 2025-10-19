@@ -23,7 +23,7 @@
       />
       <div class="flex items-center gap-[11px] pt-[57px] pl-[41px] pb-[67px]">
         <div class="w-12 h-12 rounded-full overflow-hidden border-2 border-gray-200">
-          <img src="/Group 38(2).png" alt="profile-2" class="w-full h-full object-cover" />
+          <img src="/Group38(2).png" alt="profile-2" class="w-full h-full object-cover" />
         </div>
         <div class="text-left">
           <h3 class="text-[#416887] font-medium text-lg">Grace Perez</h3>
@@ -41,7 +41,7 @@
       />
       <div class="flex items-center gap-[11px] pt-[57px] pl-[41px] pb-[67px]">
         <div class="w-12 h-12 rounded-full overflow-hidden border-2 border-gray-200">
-          <img src="/Group 38(1).png" alt="profile-1" class="w-full h-full object-cover" />
+          <img src="/Group38(1).png" alt="profile-1" class="w-full h-full object-cover" />
         </div>
         <div class="text-left">
           <h3 class="text-[#416887] font-medium text-lg">Bella Marie</h3>
@@ -59,7 +59,7 @@
       />
       <div class="flex items-center gap-[11px] pt-[57px] pl-[41px] pb-[67px]">
         <div class="w-12 h-12 rounded-full overflow-hidden border-2 border-gray-200">
-          <img src="/Group 38.png" alt="profile" class="w-full h-full object-cover" />
+          <img src="/Group38.png" alt="profile" class="w-full h-full object-cover" />
         </div>
         <div class="text-left">
           <h3 class="text-[#416887] font-medium text-lg">Gigi Hadid</h3>
